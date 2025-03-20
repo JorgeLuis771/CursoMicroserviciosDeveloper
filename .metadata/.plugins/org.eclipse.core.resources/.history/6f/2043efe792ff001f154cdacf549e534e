@@ -1,0 +1,14 @@
+package com.proa.app.services;
+
+import java.util.List;
+
+import ch.qos.logback.core.net.server.Client;
+
+public interface IService {
+	boolean insert(Client c);
+    List<Client> selectAll();
+    boolean update(Client c);
+    Client findById(long id);
+    boolean delete(long id);
+
+}
