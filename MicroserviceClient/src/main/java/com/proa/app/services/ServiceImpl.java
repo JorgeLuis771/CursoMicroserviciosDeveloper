@@ -9,8 +9,6 @@ import com.proa.app.dao.IClientDAO;
 import com.proa.app.entities.Client;
 import com.proa.app.exceptions.ClientNotFoundException;
 
-
-
 @Service
 public class ServiceImpl implements IService{
 

@@ -21,7 +21,6 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="org.slf4j.Logger"/>
-    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
@@ -29,4 +28,12 @@
     <fullyQualifiedTypeName name="com.proa.app.exceptions.OrderNotFoundException"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
     <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.server.SecurityWebFilterChain"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.Customizer"/>
+    <fullyQualifiedTypeName name="org.springframework.web.server.WebFilter"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.context.ReactiveSecurityContextHolder"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.couchbase.CouchbaseProperties.Authentication"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.Authentication"/>
+    <fullyQualifiedTypeName name="org.springframework.security.oauth2.jwt.Jwt"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
 </qualifiedTypeNameHistroy>
